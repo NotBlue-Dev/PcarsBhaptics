@@ -23,6 +23,15 @@ next :
 - missing tyre
 
 ## How to install
-it's basically the same as this one :
-but you don't need to input ip/nickname, just enable the api on project cars run the app and bhaptics player and ready to go
+it's basically the same as this one : \n
 https://www.youtube.com/watch?v=zLLdhn2b9l0&t=43s
+but you don't need to input ip/nickname \n
+just enable the api on project cars run the app and bhaptics player and ready to go \n
+
+# Demo
+https://www.youtube.com/watch?v=x0rjtBg4Alw&feature=youtu.be
+
+
+
+
+
