@@ -3,7 +3,6 @@
 ## About the project ?
 
 Project-Cars-Bhaptics is an API based project, allowing you to use bhaptics products with project cars 1 & 2
-[@NotBlue-Dev](https://github.com/NotBlue-Dev/)
 
 ## Compatibility
 
